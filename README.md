@@ -99,9 +99,3 @@ Lembre-se que o são elementos **não obrigatórios** e que tem uma **dificul
     1.  Caso digite **Black Hat**, deve demonstrar apenas os produtos que tenham no **nome Black Hat** na vitrine.
 
     2.  Caso digite **Shirt**, deve demonstrar apenas os produtos que tenham no **nome Shirt** na vitrine.
-
-### Envio
-
-Faça o push do código para o seu repositório GitHub, altere a visibilidade do repositório para internal e implemente-o GitHub pages. No Canvas, por favor, envie sua url do GitHub Pages: (ex:https://nomerandomico.pages.github.io/) e envie o link do seu repositório nos comentários. Atenção, seu repositório deverá ser compartilhado apenas com a organização. (Internal)
-
-Que tal **compartilhar **nas redes sociais? Esse projeto pode servir de **portfólio **no seu **LinkedIn**, ou quem sabe enfeitar por um longo tempo a sua página do **Instagram**! Vamos lá, mostre a todos o seu crescimento, diversão e esforço dedicado em cada projeto!
