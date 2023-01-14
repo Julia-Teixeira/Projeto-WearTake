@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+    <script defer src="./js/database.js"></script>
+    <script defer src="./js/index.js"></script>
+    <title>Weartake</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <h1 class="logo">Weartake</h1>
+                <ul>
+                    <li class="todos selecionado">Todos</li>
+                    <li class="acessorios ">Acessórios</li>
+                    <li class="calcados">Calçados</li>
+                    <li class="camisetas">Camisetas</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="container">
+    <main>
+        <section class="cards-section">
+            <ul class="cards">
+
+            </ul>
+        </section>
+        <aside>
+            <section class="pesquisa">
+                <input class="input_Pesquisa"type="text" placeholder="Digite sua pesquisa aqui">
+                <button class="button_Pesquisa">Pesquisar</button>
+            </section>
+            <section class="carrinho_Compras">
+                <h3>Carrinho de Compras</h3>
+                <div class="itens_Carrinho">
+                <div class="vazio">
+                <h4>Carrinho Vazio</h4>
+                <p>Adicione itens</p>
+                </div>
+                   <ul class="lista_carrinho invisivel"></ul>
+
+                </div>
+            </section>
+            <section class="quant_valor invisivel">
+                
+            </section>
+        </aside>
+    </main>
+</div>
+</body>
+
+</html>
